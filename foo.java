@@ -1,4 +1,5 @@
 public class foo {
+  /** Prints some stuff */
   public static void main(String[] args) { 
     System.out.println("foo");
   
