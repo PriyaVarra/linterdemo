@@ -1,14 +1,9 @@
 public class foo {
-  public static void main(String[] args) {
-      if (1 < 2) 
-      {
-        System.out.println("Hello");
-      }
-      else 
-      {
-        System.out.println("Goodbye");
-      }
+  public static void main(String[] args) { 
     
-      System.out.println("This code seems weird");
+      System.out.println("foo");
+    
+      if (1 < 2) 
+        System.out.println("bar");
   }
 }
