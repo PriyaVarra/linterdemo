@@ -8,5 +8,7 @@ public class foo {
       {
         System.out.println("Goodbye");
       }
+    
+      System.out.println("This code seems weird");
   }
 }
